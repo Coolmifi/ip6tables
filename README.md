@@ -6,5 +6,5 @@ ipv6端口转发配置脚本
 
 ## 用法
 ```
-wget --no-check-certificate -qO ip6t.sh https://raw.githubusercontent.com/Coolmifi/ip6tables_config/main/ip6t.sh && bash ip6t.sh
+wget --no-check-certificate -qO ip6t.sh https://raw.githubusercontent.com/Coolmifi/ip6tables/main/ip6t.sh && bash ip6t.sh
 ```
